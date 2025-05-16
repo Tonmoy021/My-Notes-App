@@ -1,2 +1,2 @@
-# My Notes App
+# My-Notes-App
 This app is very useful for making notes.
