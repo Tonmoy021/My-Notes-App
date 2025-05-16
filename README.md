@@ -1,2 +1,2 @@
-# MyNotesApp
-This app is use for storing and sharing any notes which will be very helpful for student.
+# My Notes App
+This app is very useful for making notes.
